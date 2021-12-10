@@ -64,5 +64,6 @@ Kaniko supports the following type of build context.
 
 
 **To validate the docker image build and push, check the pod logs.**
+<br />
     $ kubectl logs kaniko --follow
 
